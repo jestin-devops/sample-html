@@ -1,4 +1,4 @@
-name: sample-html
+name: 365sample-html
 static_sites:
 - environment_slug: html
   github:
